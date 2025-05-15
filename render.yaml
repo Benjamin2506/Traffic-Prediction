@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: traffic-prediction
+    env: python
+    buildCommand: ""
+    startCommand: gunicorn app:app
+    envVars:
+      - key: GOOGLE_MAPS_API_KEY
+        value: AIzaSyDJE5HiSRrXoihhHGoGQ1J-SX0u_9BeL7I
