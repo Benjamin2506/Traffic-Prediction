@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="panel animated-panel">
+                <h3>Traffic Prediction</h3>
+                <form id="prediction-form">
+                    <div class="form-group">
+                        <label for="source">Source Location</label>
+                        <input type="text" id="source" autocomplete="source" class="form-control" placeholder="Enter source location" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="destination">Destination Location</label>
+                        <input type="text" id="destination" autocomplete="destination" class="form-control" placeholder="Enter destination location" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="vehicle_type">Type of Vehicle</label>
+                        <select id="vehicle_type" class="form-control" required>
+                            <option value="car">Car</option>
+                            <option value="bike">Bike</option>
+                            <option value="bus">Bus</option>
+                            <option value="truck">Truck</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="speed">Speed of Vehicle (km/h)</label>
+                        <input type="number" id="speed" class="form-control" placeholder="Enter speed of vehicle" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block">Predict</button>
+                </form>
+                <button id="shortest-path-btn" class="btn btn-secondary btn-block mt-3">Find Shortest Path</button>
+                <div class="results" id="results">
+                    <p><strong>Distance:</strong> <span id="distance"></span> km</p>
+                    <p><strong>Google Map Time:</strong> <span id="google_time"></span> mins</p>
+                    <p><strong>Predicted Time:</strong> <span id="predicted_time"></span> mins</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8">
+            <div id="map" class="map-container"></div>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traffic Prediction System</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Font Awesome CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <!-- Custom CSS &callback=initMap&v=weekly&solution_channel=GMP_CCS_textdirections_v2-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDJE5HiSRrXoihhHGoGQ1J-SX0u_9BeL7I&callback=initMap&v=weekly&solution_channel=GMP_CCS_textdirections_v"></script> -->
+    
+</head>
+
+{% extends "base.html" %}
+
+{% block content %}
+    <div class="container">
+        <!-- Left Panel: Input Form -->
+        <div class="left-panel">
+            <h2>Traffic Prediction</h2>
+            <form id="trafficForm" method="POST">
+                <label for="source">Source Location:</label>
+                <input type="text" id="source" name="source" placeholder="Enter Source Location" required>
+
+                <label for="destination">Destination Location:</label>
+                <input type="text" id="destination" name="destination" placeholder="Enter Destination Location" required>
+
+                <label for="vehicle_type">Type of Vehicle:</label>
+                <select id="vehicle_type" name="vehicle_type" required>
+                    <option value="car">Car</option>
+                    <option value="bus">Bus</option>
+                    <option value="bike">Bike</option>
+                    <option value="truck">Truck</option>
+                </select>
+
+                <label for="speed">Speed of Vehicle (km/h):</label>
+                <input type="number" id="speed" name="speed" placeholder="Enter Speed" required>
+
+                <label for="distance">Distance (km):</label>
+                <input type="text" id="distance" name="distance" readonly>
+
+                <button type="button" id="predictButton" onclick="predictTime()">Predict</button>
+            </form>
+            <div id="predictionResult">
+                <p>Predicted Time: <span id="predictedTime">--</span></p>
+            </div>
+        </div>
+
+        <!-- Right Panel: Google Map -->
+        <div class="right-panel">
+            <div id="map" style="height: 100%;"></div>
+        </div>
+    </div>
+
+    <!-- Include Google Maps API script -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&libraries=places&v=weekly" async></script>
+    {% endblock %}

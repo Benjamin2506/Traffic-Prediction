@@ -1,0 +1,92 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #abe6d231;
+    color: #333;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: #a15995;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    box-shadow: 0px 5px 7px -1px rgba(0, 0, 0, 0.575);
+}
+
+.header-title {
+    margin: 0;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #34475a;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    margin-top: auto;
+}
+
+.main-content {
+    flex: 1;
+    padding: 20px 0;
+}
+
+.panel {
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.animated-panel {
+    animation: fadeInUp 1s ease-in-out;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.map-container {
+    width: 100%;
+    height: 500px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.results {
+    margin-top: 20px;
+}
+
+.results p {
+    margin: 0;
+    padding: 5px 0;
+    font-size: 1.1em;
+}
+
+.btn-primary {
+    background-color: #10aa25;
+    border-color: #059429;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}

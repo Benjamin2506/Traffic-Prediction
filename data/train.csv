@@ -1,0 +1,401 @@
+route,start_time,duration,duration_in_traffic,distance,traffic_condition
+Reshimbagh to Koradi,16:30,45,63,13.1,Moderate
+Dhantoli to Mankapur,10:15,29,29,3.7,Moderate
+Vayusena Nagar to Besa,06:15,44,46,24.7,Light
+Mahal to Trimurti Nagar,21:00,19,22,20.0,Light
+Pratap Nagar to Reshimbagh,22:15,21,22,3.8,Light
+Dhantoli to Ravi Nagar,07:00,51,61,7.4,Light
+Mankapur to Civil Lines,12:30,50,62,2.5,Light
+MIDC Hingna to Wardha Road,07:45,11,12,21.2,Heavy
+Medical Square to Bhagwan Nagar,09:00,14,16,8.6,Severe
+Pardi to Omkar Nagar,07:45,49,55,16.7,Light
+Reshimbagh to Pardi,13:30,60,86,19.4,Light
+Shankar Nagar to Hanuman Nagar,06:30,29,29,3.6,Severe
+Ambazari Lake to Reshimbagh,17:15,21,23,15.2,Severe
+Sadar to Medical Square,05:00,50,64,4.3,Moderate
+Borgaon to Wardhaman Nagar,15:30,41,60,11.5,Severe
+Hanuman Nagar to Hudkeshwar,14:00,11,15,9.2,Light
+Manish Nagar to Ambazari,11:45,18,22,11.6,Severe
+Ramdham to Trimurti Nagar,11:15,52,69,10.0,Moderate
+Pardi to Medical Square,22:00,32,47,11.9,Light
+Borgaon to Nara,12:00,13,15,4.2,Heavy
+Kapil Nagar to Sadar,09:30,25,29,17.1,Severe
+Mominpura to Lakadganj,06:45,16,17,14.5,Light
+Wardha Road to Vaishali Nagar,17:30,17,22,24.3,Heavy
+Reshimbagh to Gopal Nagar,09:45,10,13,19.5,Moderate
+Hudkeshwar to Vayusena Nagar,13:15,18,25,7.9,Severe
+Dhantoli to Mominpura,09:30,53,56,15.7,Moderate
+Medical Square to Omkar Nagar,13:00,23,26,9.5,Severe
+Koradi to Vayusena Nagar,11:45,58,73,7.8,Moderate
+Ambazari to Sitabuldi Fort,08:15,60,78,6.2,Light
+Hingna to Omkar Nagar,12:15,38,40,22.9,Light
+Khamla to Kapil Nagar,05:00,59,79,24.1,Light
+Besa to Ajni,20:15,40,48,24.2,Severe
+Vayusena Nagar to Chhaoni,19:15,32,41,22.9,Heavy
+Civil Lines to Medical Square,14:15,60,88,2.5,Moderate
+Dhantoli to Khamla,12:45,51,55,24.2,Light
+Sadar to Kapil Nagar,13:15,23,31,9.7,Heavy
+Sitabuldi to Vaishali Nagar,18:00,34,50,17.8,Moderate
+Mahal to Pardi,07:45,10,13,18.1,Light
+Wardha Road to Dhantoli,12:45,15,21,13.6,Moderate
+Ramdham to Pardi,17:15,13,15,2.2,Heavy
+Borgaon to Bhagwan Nagar,09:15,49,61,7.5,Heavy
+Dharampeth to Mankapur,17:30,22,24,19.6,Light
+Godhani to Civil Lines,08:45,32,35,11.7,Severe
+Medical Square to Khamla,14:00,53,76,17.7,Moderate
+Ambazari Lake to Hudkeshwar,22:00,52,55,11.1,Light
+Pardi to Itwari,08:00,54,61,16.3,Light
+Manish Nagar to Hanuman Nagar,06:15,53,59,23.7,Heavy
+Wardha Road to Ajni,20:30,21,22,2.1,Heavy
+Friends Colony to Sadar,21:45,57,70,8.6,Light
+Dharampeth to Mankapur,09:00,54,69,3.7,Moderate
+Manish Nagar to Dharampeth,05:00,30,36,2.8,Light
+Sadar to Omkar Nagar,06:00,28,40,12.1,Severe
+Trimurti Nagar to Dhantoli,05:00,11,14,21.6,Light
+Nandanvan to Chhaoni,16:15,35,49,7.6,Light
+Wardhaman Nagar to Hingna,14:45,14,16,2.5,Severe
+Manish Nagar to Mahal,17:30,17,19,11.8,Heavy
+Pardi to Omkar Nagar,06:15,37,42,18.0,Light
+Nagpur Railway Station to Friends Colony,21:45,21,28,22.5,Heavy
+Sadar to Seminary Hills,12:45,41,50,10.0,Heavy
+Jaripatka to Ajni,06:00,43,57,2.1,Heavy
+Trimurti Nagar to Sitabuldi Fort,11:15,37,46,5.2,Light
+Tajbagh to Hingna,06:45,28,42,20.4,Heavy
+Dhantoli to Besa,08:45,53,58,3.5,Severe
+Omkar Nagar to Ambazari,19:15,52,68,10.7,Moderate
+Mahal to Trimurti Nagar,12:45,37,48,8.3,Severe
+Lakadganj to Besa,05:15,40,59,8.1,Heavy
+Mahal to Besa,18:00,18,24,24.1,Light
+Omkar Nagar to Besa,18:15,14,17,8.2,Light
+Manish Nagar to Vaishali Nagar,12:45,27,31,22.5,Severe
+Vayusena Nagar to Dhantoli,13:15,52,71,19.3,Severe
+Jaripatka to Shankar Nagar,12:30,52,52,12.8,Heavy
+Gopal Nagar to Bhagwan Nagar,21:00,22,31,23.7,Heavy
+Nara to Subhash Nagar,20:45,38,44,24.0,Light
+Khamla to Omkar Nagar,15:30,59,74,2.1,Moderate
+Kapil Nagar to Pardi,21:00,42,56,23.1,Severe
+Borgaon to Omkar Nagar,20:00,54,73,19.7,Heavy
+Nandanvan to Seminary Hills,18:30,25,28,13.8,Light
+Hanuman Nagar to Godhani,05:15,52,57,4.4,Severe
+Seminary Hills to Itwari,05:30,16,17,22.2,Severe
+Civil Lines to Khamla,11:45,39,48,5.0,Moderate
+Ravi Nagar to Besa,19:45,59,70,9.6,Moderate
+Ambazari Lake to Besa,20:15,46,66,3.4,Heavy
+Bhagwan Nagar to Ganeshpeth,21:45,49,69,3.0,Moderate
+Sitabuldi Fort to Sitabuldi,06:15,59,71,16.9,Moderate
+Besa to Mominpura,15:30,42,42,24.5,Light
+Dharampeth to Dhantoli,16:00,59,83,21.2,Light
+Mominpura to Borgaon,08:00,44,64,6.8,Heavy
+Pratap Nagar to Ramdham,19:15,56,67,7.7,Moderate
+Ramdaspeth to Borgaon,12:30,44,49,11.7,Severe
+Ambazari Lake to Ramdaspeth,10:15,55,82,24.6,Moderate
+Ramdham to Chhaoni,05:45,15,20,2.9,Light
+Omkar Nagar to Vaishali Nagar,15:00,11,13,22.2,Severe
+Borgaon to Ravi Nagar,17:30,46,52,14.7,Severe
+Lakadganj to Godhani,09:45,17,17,10.6,Moderate
+Nagpur Railway Station to Tajbagh,18:00,29,39,14.4,Moderate
+Nandanvan to Tajbagh,19:45,13,14,4.6,Heavy
+Jaripatka to Reshimbagh,11:30,16,22,18.7,Severe
+Mominpura to Sitabuldi Fort,09:00,58,76,19.6,Severe
+Omkar Nagar to Nandanvan,20:30,31,40,12.8,Light
+Gopal Nagar to Omkar Nagar,13:15,23,26,3.6,Light
+Friends Colony to Lakadganj,22:15,46,68,8.6,Severe
+Sitabuldi Fort to Ramdham,19:30,23,24,14.5,Moderate
+Ganeshpeth to Dhantoli,16:00,33,44,22.5,Severe
+Hudkeshwar to Borgaon,08:45,24,35,12.9,Heavy
+Trimurti Nagar to Lakadganj,09:30,43,59,5.1,Light
+Hudkeshwar to Vaishali Nagar,12:15,33,39,23.9,Light
+Nandanvan to Mahal,16:45,53,63,17.0,Heavy
+Mominpura to Friends Colony,05:45,24,30,10.2,Moderate
+Dhantoli to Sadar,09:30,14,21,9.8,Severe
+Ravi Nagar to Hudkeshwar,13:30,28,38,22.4,Severe
+Vaishali Nagar to Dhantoli,06:30,32,45,9.6,Heavy
+Wardha Road to Friends Colony,07:00,11,14,11.3,Heavy
+Godhani to Dhantoli,14:30,53,57,21.8,Moderate
+Ambazari to Borgaon,18:00,27,35,18.4,Severe
+Dharampeth to Ambazari,09:15,18,21,19.4,Moderate
+Ambazari to Hudkeshwar,17:45,48,53,21.6,Light
+Reshimbagh to Sitabuldi Fort,05:45,44,66,21.7,Heavy
+Wardhaman Nagar to MIDC Hingna,11:15,10,12,17.9,Light
+Ravi Nagar to Ramdham,22:00,60,84,18.8,Light
+Ravi Nagar to Manish Nagar,12:15,30,40,23.7,Heavy
+Chhaoni to Sadar,14:30,18,27,19.1,Severe
+Jaripatka to Bhagwan Nagar,16:15,45,63,23.9,Moderate
+Medical Square to Nandanvan,05:00,31,35,4.3,Light
+Kapil Nagar to Pratap Nagar,17:15,36,41,4.3,Heavy
+Dharampeth to Besa,15:15,20,22,16.6,Severe
+Ramdaspeth to Vaishali Nagar,12:00,50,63,3.4,Heavy
+Wardhaman Nagar to Dhantoli,10:30,43,45,8.6,Heavy
+Pratap Nagar to Kapil Nagar,17:30,52,55,4.2,Light
+Gopal Nagar to Nara,11:30,42,47,7.5,Severe
+Wardhaman Nagar to Ambazari Lake,10:00,28,38,5.3,Heavy
+Vaishali Nagar to Pardi,11:00,37,45,8.5,Light
+Itwari to Vayusena Nagar,20:45,39,45,18.1,Light
+Nandanvan to Sitabuldi,15:30,38,39,8.8,Heavy
+Vaishali Nagar to Seminary Hills,09:15,51,57,4.9,Severe
+Pardi to Ambazari Lake,18:45,13,16,11.5,Heavy
+Vaishali Nagar to MIDC Hingna,14:15,14,14,10.8,Light
+Reshimbagh to Koradi,07:15,28,34,23.7,Severe
+Gopal Nagar to Nandanvan,05:30,27,39,3.0,Light
+Hanuman Nagar to Wardhaman Nagar,06:00,11,11,24.3,Moderate
+Ramdaspeth to Reshimbagh,19:15,57,72,14.9,Severe
+Ambazari Lake to Wardhaman Nagar,09:30,39,57,5.2,Moderate
+Sitabuldi to Shankar Nagar,08:45,10,15,6.6,Light
+Mahal to Koradi,19:00,49,57,24.1,Light
+Nagpur Railway Station to Jaripatka,17:30,10,13,8.0,Heavy
+Itwari to Omkar Nagar,22:00,23,32,9.6,Severe
+Jaripatka to Friends Colony,16:00,46,65,19.8,Light
+Koradi to Nagpur Railway Station,19:15,41,60,11.7,Moderate
+Dhantoli to Ajni,19:30,60,71,18.9,Severe
+Manish Nagar to Besa,17:15,37,50,4.2,Heavy
+Omkar Nagar to Manish Nagar,17:30,34,43,12.0,Severe
+Borgaon to Sitabuldi,11:00,14,21,7.1,Heavy
+Sitabuldi to Vaishali Nagar,11:45,30,34,21.7,Heavy
+Ramdaspeth to Lakadganj,22:30,46,55,2.0,Moderate
+Nandanvan to Sadar,22:00,47,47,5.2,Moderate
+Subhash Nagar to Medical Square,17:30,54,61,16.1,Heavy
+Bhagwan Nagar to Omkar Nagar,16:00,53,71,9.8,Moderate
+Dharampeth to Ganeshpeth,07:30,33,44,20.2,Severe
+Vaishali Nagar to Hingna,20:00,59,69,14.6,Severe
+Gopal Nagar to MIDC Hingna,13:45,16,18,21.3,Light
+Mominpura to Khamla,10:15,19,24,6.5,Light
+Borgaon to Trimurti Nagar,21:15,17,17,2.8,Light
+Ramdaspeth to Manish Nagar,10:15,36,53,5.8,Light
+Pardi to Vaishali Nagar,08:00,38,47,8.6,Heavy
+Mahal to Seminary Hills,14:30,47,62,24.5,Moderate
+Tajbagh to Pratap Nagar,13:30,51,72,19.9,Severe
+MIDC Hingna to Godhani,09:30,32,48,19.4,Severe
+Sitabuldi to Ambazari Lake,14:00,52,72,12.9,Light
+Lakadganj to Hudkeshwar,20:45,46,69,24.2,Moderate
+Nara to Sadar,06:45,24,29,16.3,Moderate
+Koradi to Civil Lines,11:45,35,39,11.1,Heavy
+Ambazari Lake to MIDC Hingna,06:15,29,43,13.8,Moderate
+Friends Colony to Trimurti Nagar,14:45,24,32,19.8,Severe
+Dharampeth to Vaishali Nagar,21:00,18,19,15.0,Severe
+Shankar Nagar to Chhaoni,11:15,11,16,7.2,Light
+Reshimbagh to Shankar Nagar,09:30,35,50,16.0,Light
+Itwari to Mankapur,10:30,35,44,2.8,Light
+Dharampeth to Ambazari Lake,08:00,18,20,23.4,Heavy
+Seminary Hills to Kapil Nagar,16:15,26,33,21.5,Moderate
+Godhani to Wardha Road,10:45,14,14,18.8,Heavy
+Ajni to Borgaon,17:45,10,14,9.2,Light
+Tajbagh to Ganeshpeth,20:45,45,57,15.3,Moderate
+Manish Nagar to Hudkeshwar,19:30,19,28,15.7,Heavy
+Vaishali Nagar to Pardi,22:00,25,36,8.0,Light
+Ambazari Lake to Chhaoni,07:30,37,45,19.8,Light
+Ganeshpeth to Hingna,08:30,52,75,9.9,Moderate
+Mankapur to Mahal,19:45,30,45,18.8,Moderate
+Civil Lines to Seminary Hills,14:00,45,55,20.1,Severe
+Manish Nagar to Vaishali Nagar,15:30,55,79,2.1,Severe
+Omkar Nagar to Mankapur,08:45,32,45,22.7,Light
+Ajni to Seminary Hills,19:45,49,59,10.2,Heavy
+Itwari to Pardi,11:15,49,62,4.1,Heavy
+Vaishali Nagar to Wardhaman Nagar,07:00,60,84,6.2,Moderate
+Ravi Nagar to Nagpur Railway Station,16:45,44,65,12.2,Light
+Sitabuldi Fort to Hanuman Nagar,20:15,27,29,14.3,Moderate
+Nagpur Railway Station to Mankapur,10:15,46,46,22.5,Heavy
+Ganeshpeth to Wardhaman Nagar,10:00,18,20,17.5,Light
+Medical Square to Ambazari Lake,17:30,36,43,24.2,Heavy
+Lakadganj to Vaishali Nagar,15:15,48,64,4.6,Light
+Trimurti Nagar to Wardha Road,05:00,40,59,3.4,Severe
+Chhaoni to Mominpura,05:30,24,25,22.8,Severe
+Subhash Nagar to Ramdaspeth,14:45,27,30,20.2,Moderate
+Mominpura to Sitabuldi,18:15,41,47,16.4,Heavy
+Civil Lines to Mominpura,10:45,13,13,16.3,Light
+Wardha Road to Sadar,17:30,20,29,13.6,Heavy
+Jaripatka to Pardi,09:45,46,62,3.1,Severe
+Sadar to Vaishali Nagar,16:45,43,52,7.2,Light
+Khamla to Shankar Nagar,21:30,26,35,9.2,Light
+Dhantoli to Nandanvan,16:15,12,13,19.6,Severe
+Hudkeshwar to Hanuman Nagar,15:30,12,18,14.5,Light
+Ramdaspeth to Nagpur Railway Station,05:45,22,30,15.5,Severe
+Mahal to Besa,17:45,21,23,19.6,Light
+Ganeshpeth to Pratap Nagar,14:45,46,56,2.4,Heavy
+Gopal Nagar to Dharampeth,09:30,39,50,15.2,Heavy
+Mahal to MIDC Hingna,06:15,38,40,24.3,Moderate
+Sadar to Omkar Nagar,10:15,25,30,9.2,Severe
+MIDC Hingna to Reshimbagh,20:30,58,63,18.8,Heavy
+Civil Lines to Sitabuldi,12:30,10,13,5.2,Severe
+Ambazari Lake to Godhani,16:15,29,38,14.7,Moderate
+Kapil Nagar to Lakadganj,14:30,49,66,6.7,Heavy
+Ambazari to Ramdaspeth,13:15,30,30,17.5,Severe
+Jaripatka to Bhagwan Nagar,18:00,20,25,2.8,Moderate
+Nagpur Railway Station to Kapil Nagar,19:15,39,57,20.5,Heavy
+Mahal to Pardi,18:30,52,62,10.6,Severe
+Ramdham to Dhantoli,14:00,51,72,19.8,Severe
+Godhani to Shankar Nagar,13:00,30,44,2.2,Light
+Ambazari to Mankapur,16:30,33,45,19.7,Severe
+Besa to Hanuman Nagar,22:15,31,42,24.5,Severe
+Ganeshpeth to Wardha Road,06:45,15,17,12.7,Heavy
+MIDC Hingna to Wardhaman Nagar,17:15,22,30,8.3,Light
+Seminary Hills to Khamla,21:00,24,36,23.2,Moderate
+Medical Square to Sitabuldi,15:45,55,67,4.7,Light
+Dhantoli to Seminary Hills,19:45,21,25,24.7,Severe
+Chhaoni to Vaishali Nagar,07:00,30,36,18.0,Severe
+Khamla to Ambazari,10:30,59,86,8.3,Light
+Nara to Shankar Nagar,17:00,14,18,3.4,Moderate
+Friends Colony to Mahal,11:30,10,11,8.2,Moderate
+Hudkeshwar to Godhani,08:30,29,30,23.1,Severe
+Wardha Road to Dharampeth,07:45,14,14,3.9,Severe
+Reshimbagh to Koradi,10:15,57,65,16.6,Moderate
+Sitabuldi Fort to Lakadganj,18:15,51,75,9.4,Severe
+Ajni to Tajbagh,09:30,47,54,6.6,Light
+Subhash Nagar to Hudkeshwar,18:30,40,48,22.0,Severe
+Sitabuldi Fort to Sadar,09:30,24,33,12.9,Heavy
+Borgaon to Reshimbagh,21:30,43,64,16.9,Light
+Hudkeshwar to Jaripatka,22:00,15,22,20.3,Severe
+Borgaon to Vayusena Nagar,08:30,18,22,11.5,Moderate
+Ajni to Ambazari,10:15,22,28,20.6,Severe
+Pratap Nagar to Manish Nagar,05:15,47,47,17.8,Moderate
+Godhani to Ramdham,09:00,28,29,19.5,Heavy
+Wardhaman Nagar to Vayusena Nagar,13:30,56,65,22.8,Moderate
+Ajni to Omkar Nagar,09:00,21,30,17.4,Light
+Wardha Road to Shankar Nagar,09:30,38,55,21.3,Severe
+Seminary Hills to Mominpura,09:45,32,44,5.5,Light
+Ravi Nagar to Godhani,07:15,22,28,16.3,Severe
+Borgaon to Trimurti Nagar,19:30,14,14,11.2,Moderate
+Bhagwan Nagar to Hingna,17:45,39,47,24.5,Heavy
+Ravi Nagar to Godhani,17:15,34,45,10.5,Light
+Vaishali Nagar to Kapil Nagar,09:30,19,27,22.5,Severe
+Ambazari to Bhagwan Nagar,20:30,47,57,19.0,Severe
+Civil Lines to Hingna,08:30,43,55,6.4,Severe
+MIDC Hingna to Manish Nagar,20:15,51,73,8.2,Light
+Civil Lines to Godhani,13:30,60,87,12.6,Heavy
+Kapil Nagar to Seminary Hills,16:00,14,14,10.2,Heavy
+Tajbagh to Hudkeshwar,13:15,40,57,15.6,Moderate
+Pardi to Ganeshpeth,22:15,37,41,9.3,Heavy
+Tajbagh to Dhantoli,19:00,31,46,15.1,Light
+Sitabuldi to Hingna,11:30,23,30,12.5,Severe
+Itwari to Ravi Nagar,19:15,51,52,3.6,Moderate
+Khamla to Vaishali Nagar,09:30,25,29,3.6,Severe
+Ambazari to Sitabuldi,12:45,30,33,23.1,Heavy
+Civil Lines to Ramdaspeth,16:15,44,63,17.4,Light
+Ganeshpeth to Lakadganj,13:15,35,37,20.5,Heavy
+Ramdham to Bhagwan Nagar,14:30,16,18,21.3,Light
+Tajbagh to Pratap Nagar,10:00,54,73,20.6,Severe
+Shankar Nagar to Pratap Nagar,12:00,24,34,24.9,Moderate
+Ambazari Lake to Mankapur,08:45,58,70,15.9,Heavy
+Gopal Nagar to Hudkeshwar,18:45,30,45,6.3,Severe
+Nara to Ganeshpeth,20:15,11,13,6.8,Light
+Kapil Nagar to Sadar,09:00,13,16,17.8,Severe
+Wardha Road to Hanuman Nagar,12:15,51,73,17.7,Heavy
+Seminary Hills to Manish Nagar,15:15,36,52,21.0,Moderate
+Mankapur to Sitabuldi,17:45,43,52,2.6,Moderate
+Ravi Nagar to Nandanvan,20:45,30,41,14.3,Heavy
+Civil Lines to Tajbagh,10:30,55,66,24.5,Light
+Pardi to Chhaoni,20:15,59,73,16.4,Severe
+Hingna to Ravi Nagar,08:15,50,57,3.4,Severe
+Ambazari to Tajbagh,18:30,13,18,10.3,Heavy
+Koradi to Vayusena Nagar,15:15,37,43,23.5,Light
+Ajni to Hingna,16:45,28,30,11.8,Severe
+Omkar Nagar to Kapil Nagar,21:15,21,26,12.6,Moderate
+Itwari to Ambazari,14:15,53,60,12.9,Heavy
+Omkar Nagar to Shankar Nagar,13:45,39,40,23.6,Light
+Koradi to Ambazari,21:15,47,57,16.0,Light
+Ramdaspeth to Pardi,20:45,14,20,6.8,Heavy
+Manish Nagar to Jaripatka,06:15,40,57,14.8,Heavy
+Godhani to Reshimbagh,10:00,20,21,19.7,Light
+Omkar Nagar to Shankar Nagar,20:45,60,75,20.5,Light
+Hudkeshwar to Sitabuldi Fort,21:30,45,51,22.0,Moderate
+Medical Square to Godhani,09:15,13,16,21.4,Moderate
+Mahal to Dhantoli,16:30,50,71,19.1,Moderate
+Bhagwan Nagar to Sitabuldi,13:15,47,47,6.6,Moderate
+Pratap Nagar to Medical Square,13:45,48,67,16.3,Heavy
+Dharampeth to Vaishali Nagar,16:15,55,72,12.1,Moderate
+Mankapur to Godhani,21:30,11,15,23.8,Moderate
+Pardi to Gopal Nagar,13:00,16,17,18.9,Light
+Gopal Nagar to Pardi,06:00,28,42,20.8,Heavy
+Godhani to Vayusena Nagar,14:30,15,21,14.3,Light
+Manish Nagar to Koradi,18:00,46,48,11.4,Severe
+Shankar Nagar to Sitabuldi,10:30,33,39,18.6,Heavy
+Sitabuldi Fort to Mankapur,06:00,59,79,4.1,Heavy
+Jaripatka to Vayusena Nagar,05:15,21,29,17.0,Light
+Tajbagh to Vaishali Nagar,10:30,42,48,9.6,Moderate
+Subhash Nagar to Sitabuldi Fort,21:15,51,51,23.2,Light
+Civil Lines to Sitabuldi Fort,15:15,43,44,14.1,Heavy
+Kapil Nagar to Nagpur Railway Station,16:30,36,52,8.4,Severe
+Ganeshpeth to Civil Lines,10:15,20,28,18.4,Severe
+Kapil Nagar to Khamla,05:15,38,44,8.6,Severe
+Vayusena Nagar to Nandanvan,06:45,28,28,14.1,Light
+Ravi Nagar to Civil Lines,08:30,13,17,14.3,Moderate
+Besa to Wardha Road,13:00,56,56,9.4,Light
+Omkar Nagar to Nara,21:45,58,78,15.7,Light
+Dhantoli to Godhani,19:00,22,24,22.3,Moderate
+Ganeshpeth to Bhagwan Nagar,08:45,25,33,3.4,Severe
+Khamla to Itwari,09:15,36,36,8.0,Heavy
+Borgaon to Trimurti Nagar,18:45,33,45,13.2,Severe
+Wardha Road to Gopal Nagar,07:30,42,62,12.0,Severe
+Kapil Nagar to Manish Nagar,18:15,34,50,7.4,Severe
+Sitabuldi Fort to Vaishali Nagar,07:00,21,30,10.6,Heavy
+Ambazari to Gopal Nagar,16:00,12,18,22.3,Severe
+Subhash Nagar to Jaripatka,07:45,36,44,21.7,Moderate
+Nara to Dhantoli,13:30,19,21,7.1,Light
+Nara to Mankapur,10:00,30,40,9.1,Light
+Godhani to Dharampeth,15:00,47,50,18.4,Heavy
+Sitabuldi to Ravi Nagar,12:45,15,19,14.4,Severe
+Mominpura to Trimurti Nagar,18:45,24,26,7.8,Heavy
+Dhantoli to Ajni,11:45,57,85,16.8,Moderate
+Nagpur Railway Station to MIDC Hingna,05:30,20,23,14.6,Heavy
+Subhash Nagar to Jaripatka,15:45,14,17,15.4,Severe
+Mahal to Pratap Nagar,05:00,58,73,12.3,Heavy
+Dhantoli to Ravi Nagar,19:30,30,30,15.9,Heavy
+Friends Colony to Gopal Nagar,17:45,15,17,5.9,Heavy
+Vayusena Nagar to Friends Colony,17:45,32,35,10.0,Moderate
+Shankar Nagar to Pratap Nagar,13:30,11,13,5.8,Moderate
+Subhash Nagar to Chhaoni,19:45,50,69,4.4,Heavy
+Sitabuldi to Mominpura,07:15,30,30,18.6,Severe
+Koradi to Besa,22:00,54,63,16.2,Severe
+Koradi to Godhani,18:30,26,38,16.7,Heavy
+Koradi to Hudkeshwar,16:45,52,72,7.9,Severe
+MIDC Hingna to Khamla,15:45,23,25,13.4,Severe
+Dharampeth to Ambazari,13:00,35,42,18.9,Moderate
+Wardha Road to Hudkeshwar,12:45,33,41,12.4,Heavy
+Lakadganj to Friends Colony,15:30,51,61,24.5,Heavy
+Reshimbagh to Ramdham,11:15,40,53,12.4,Light
+Itwari to Sitabuldi Fort,11:45,35,47,15.8,Heavy
+Besa to Dhantoli,18:30,28,42,9.2,Light
+Borgaon to Koradi,09:30,36,38,9.5,Moderate
+Khamla to Nagpur Railway Station,07:15,59,75,5.6,Moderate
+Ravi Nagar to Subhash Nagar,15:15,22,22,21.4,Moderate
+Manish Nagar to Itwari,18:30,11,11,23.9,Light
+Seminary Hills to Ambazari Lake,21:15,26,38,15.9,Heavy
+Ambazari to Besa,11:30,28,31,3.6,Severe
+Ramdaspeth to Sitabuldi,05:00,41,53,24.7,Heavy
+Ganeshpeth to Pratap Nagar,14:45,28,38,23.9,Severe
+Vaishali Nagar to Seminary Hills,13:30,30,39,7.0,Heavy
+MIDC Hingna to Pratap Nagar,07:30,36,37,3.9,Light
+Ajni to Mankapur,13:00,24,31,24.8,Moderate
+Ramdham to Sitabuldi Fort,09:45,50,57,14.3,Heavy
+Hingna to Pardi,06:45,16,17,13.0,Moderate
+Manish Nagar to Trimurti Nagar,22:45,25,31,21.4,Heavy
+Hudkeshwar to Manish Nagar,16:30,19,26,17.4,Moderate
+Mominpura to Tajbagh,12:00,56,76,11.3,Heavy
+Koradi to Subhash Nagar,09:45,54,65,21.5,Moderate
+Hanuman Nagar to MIDC Hingna,19:30,45,63,9.4,Light
+Sitabuldi to Medical Square,22:45,14,21,15.4,Heavy
+Ramdham to Itwari,18:15,52,73,7.3,Moderate
+Godhani to Wardha Road,10:00,13,17,22.2,Heavy
+Reshimbagh to Civil Lines,21:45,25,31,14.7,Heavy
+Vayusena Nagar to Ambazari Lake,12:45,25,31,20.9,Moderate
+Hanuman Nagar to MIDC Hingna,17:00,49,69,18.8,Light
+Sitabuldi Fort to Nandanvan,15:45,22,30,24.8,Severe
+Wardha Road to Mahal,22:00,16,17,7.1,Moderate
+Ganeshpeth to Vayusena Nagar,22:00,32,40,3.0,Heavy
+Lakadganj to Shankar Nagar,17:00,28,33,24.9,Severe
+Tajbagh to Trimurti Nagar,12:30,44,61,8.0,Heavy
+Besa to Trimurti Nagar,20:15,58,79,13.0,Moderate
+Ajni to Reshimbagh,17:15,32,43,20.5,Severe
+Dhantoli to Mominpura,18:15,26,32,13.9,Light
+Mominpura to Ramdaspeth,07:45,41,60,3.0,Light
+Besa to Wardha Road,10:00,53,78,23.7,Light
+Jaripatka to Ambazari Lake,20:45,23,27,4.2,Light
+Sadar to Itwari,17:00,54,54,10.6,Severe
+Medical Square to Manish Nagar,16:15,57,73,10.5,Severe
+Khamla to Nara,14:45,48,71,15.5,Light
+Gopal Nagar to Trimurti Nagar,10:15,28,38,16.1,Moderate
+Chhaoni to Godhani,20:00,29,30,19.5,Moderate
+Subhash Nagar to Ambazari Lake,11:15,42,43,12.8,Heavy
+Ajni to Hanuman Nagar,21:15,29,35,5.8,Light
+Ambazari Lake to Mahal,07:45,16,23,4.2,Moderate
+Tajbagh to Hanuman Nagar,22:15,53,63,22.6,Heavy
+Ajni to Ambazari Lake,21:15,45,56,19.9,Severe
