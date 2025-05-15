@@ -86,4 +86,5 @@ def get_shortest_path():
 
 
 if __name__ == '__main__':
-    app.run(port=4000)
+    port = int(os.environ.get('PORT', 4000))  # Use 4000 as fallback locally
+    app.run(host='0.0.0.0', port=port)
